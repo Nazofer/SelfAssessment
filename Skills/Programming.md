@@ -98,7 +98,7 @@
   - Composition: 🎓 known
   - Pipe: 🎓 known
   - Memoize: 🎓 known
-  - Wrapper
+  - Wrapper u
   - Functor: 🎓 known
   - Monad: 🎓 known
   - Monoid
@@ -116,21 +116,21 @@
   - Hash table: 🙋 explained
   - Linked list: 🙋 explained
   - Doubly list: 🙋 explained
-  - Unrolled list
+  - Unrolled list e
   - Circular list: 🙋 explained
   - Queue: 🙋 explained
   - Stack: 🙋 explained
   - Deque: 🙋 explained
   - Tree: 🙋 explained
   - Graph: 🙋 explained
-  - Iterator
+  - Iterator e
   - Mutable state: 🖐️ used
   - Immutable state: 🖐️ used
   - Serialization: 🖐️ used
   - String parsing: 🙋 explained
   - JSON: 🙋 explained
   - JSON5: 🎓 known
-  - YAML: 🎓 known
+  - YAML: u
 - Networking
   - DNS: 🖐️ used
   - CDN: 🎓 known
@@ -166,7 +166,7 @@
   - Unittesting: 🙋 explained
   - git: 🙋 explained
   - Github: 🙋 explained
-  - Docker: 🖐️ used
+  - Docker: e
   - Kubernetes: 🎓 known
   - GCC: 👂 heard
   - LLVM: 👂 heard
@@ -202,8 +202,8 @@
   - Monkey patch: 🎓 known
   - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
-  - Bytecode: 🎓 known
-  - V8: 🎓 known
+  - Bytecode: u
+  - V8: u
   - VJM: 👂 heard
   - CLR: 👂 heard
   - Mono: 👂 heard
