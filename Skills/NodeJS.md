@@ -1,8 +1,8 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 🎓 known
-  - Stateful and stateless servers: 🎓 known
+  - Strong and weak sides of node.js: e
+  - Stateful and stateless servers: e
   - Nonblocking I/O and blocking code: 🙋 explained
   - Event loop phases: 🎓 known
   - Event loop microtasks and macrotasks: 🙋 explained
@@ -11,33 +11,33 @@
   - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time): 🎓 known
 - Modularity, layers and dependencies
-  - CommonJS modules: 🖐️ used
-  - ECMAScript modules: 🖐️ used
+  - CommonJS modules: e
+  - ECMAScript modules: e
   - Module `node:module`: 🎓 known
   - Caching in CJS and ESM: 🎓 known
   - Modules as singletons: 🎓 known
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`: 🖐️ used
-  - Files `package.json`, `package-lock.json`: 🖐️ used
+  - Dependencies: `npm`, `node_modules`: e
+  - Files `package.json`, `package-lock.json`: e
   - Module-based permissions model: 👂 heard
   - Isolation with modularity: 🎓 known
-  - Dependency injection: 🖐️ used
-  - DI containers: 🖐️ used
-  - Coupling and cohesion: 🎓 known
+  - Dependency injection: e
+  - DI containers: e
+  - Coupling and cohesion: e
   - Framework agnostic approach: 🎓 known
 - Environment
-  - Command line arguments: 👂 heard
+  - Command line arguments: u
   - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
-  - Streams API: 👂 heard
-  - Web Streams API: 👂 heard
+  - Streams API: k
+  - Web Streams API: k
   - Crypto API: 🖐️ used
   - Password hashing with crypto.scrypt: 👂 heard
-  - Web Crypto API: 👂 heard
+  - Web Crypto API: k
   - File system API (sync and async): 🖐️ used
   - Copy folder recursively: 🎓 known
   - Worker threads: 🎓 known
@@ -56,7 +56,7 @@
   - Generating crypto random UUID: 🖐️ used
   - Module `node:url` vs `new URL`: 🎓 known
   - Module `node:assert`
-  - Internationalization: 🖐️ used
+  - Internationalization: e
   - Blob, File, Buffer, module `node:buffer`: 🖐️ used
   - Module `node:zlib`
 - Network
@@ -71,7 +71,7 @@
   - TCP/SSL: 🎓 known
   - UDP: 🎓 known
   - TLS: 🎓 known
-  - Websocket: 🎓 known
+  - Websocket: u
   - SSE: 👂 heard
   - HTTP/3 (QUIC)
   - Long polling: 🎓 known
@@ -94,10 +94,10 @@
   - Application configuring: 🖐️ used
   - Testing: 🖐️ used
   - CI/CD: 🖐️ used
-  - Readable: 🎓 known
-  - Writable: 🎓 known
-  - Transform
-  - Back pressure
+  - Readable: u
+  - Writable: u
+  - Transform k
+  - Back pressure h
   - Buffer: 🎓 known
   - Console: 🖐️ used
   - Inspector
@@ -106,7 +106,7 @@
   - Repository: 🖐️ used
   - Active record
   - Query builder: 🖐️ used
-  - Object-Relational Mapping: 🖐️ used
+  - Object-Relational Mapping: e
   - CRUD: 🙋 explained
   - DTO: 🙋 explained
 - Error handling and debugging
@@ -123,7 +123,7 @@
   - Flame graph
   - Memory leaks: 👂 heard
   - Resource leaks: 👂 heard
-  - Data race
+  - Data race h
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons
