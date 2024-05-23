@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model e
-  - Modeling e
-  - Subject domain e
+  - Model: 🙋 explained
+  - Modeling: 🙋 explained
+  - Subject domain: 🙋 explained
   - Algorithm: 🙋 explained
   - Syntax: 🙋 explained
   - Semantics: 🙋 explained
@@ -39,16 +39,16 @@
   - Scalar: 🙋 explained
   - Literal: 🙋 explained
   - Expression: 🙋 explained
-  - Heap: e
+  - Heap: 🙋 explained
   - Function: 🙋 explained
-  - Procedure: e
+  - Procedure: 🙋 explained
   - Method: 🙋 explained
   - Class: 🙋 explained
-  - Prototype: e
-  - Event: e
-  - Type h
-  - Flag h
-  - Lexical scope: e
+  - Prototype: 🙋 explained
+  - Event: 🙋 explained
+  - Type: 👂 heard
+  - Flag: 👂 heard
+  - Lexical scope: 🙋 explained
   - Code block: 🙋 explained
   - Conditions: 🙋 explained
   - Loops: 🙋 explained
@@ -71,13 +71,13 @@
   - Type systems: 🙋 explained
   - Strong typing: 🙋 explained
   - Weak typing: 🙋 explained
-  - Duck typing: k
+  - Duck typing: 🎓 known
   - Static typing: 🙋 explained
   - Dynamic typing: 🙋 explained
   - Nominal typing: 🙋 explained
   - Structural typing
   - Explicit typing: 🙋 explained
-  - Type inference k
+  - Type inference: 🎓 known
   - Covariance
   - Contravariance
 - Functions
@@ -92,13 +92,13 @@
   - Currying: 🖐️ used
   - Higher order: 🙋 explained
   - Recursion: 🙋 explained
-  - Tail call optimisation h
+  - Tail call optimisation: 👂 heard
   - Callback: 🙋 explained
   - Listener: 🙋 explained
   - Composition: 🎓 known
   - Pipe: 🎓 known
   - Memoize: 🎓 known
-  - Wrapper u
+  - Wrapper: 🖐️ used
   - Functor: 🎓 known
   - Monad: 🎓 known
   - Monoid
@@ -116,21 +116,21 @@
   - Hash table: 🙋 explained
   - Linked list: 🙋 explained
   - Doubly list: 🙋 explained
-  - Unrolled list e
+  - Unrolled list: 🙋 explained
   - Circular list: 🙋 explained
   - Queue: 🙋 explained
   - Stack: 🙋 explained
   - Deque: 🙋 explained
   - Tree: 🙋 explained
   - Graph: 🙋 explained
-  - Iterator e
+  - Iterator: 🙋 explained
   - Mutable state: 🖐️ used
   - Immutable state: 🖐️ used
   - Serialization: 🖐️ used
   - String parsing: 🙋 explained
   - JSON: 🙋 explained
   - JSON5: 🎓 known
-  - YAML: u
+  - YAML: 🖐️ used
 - Networking
   - DNS: 🖐️ used
   - CDN: 🎓 known
@@ -166,7 +166,7 @@
   - Unittesting: 🙋 explained
   - git: 🙋 explained
   - Github: 🙋 explained
-  - Docker: e
+  - Docker: 🙋 explained
   - Kubernetes: 🎓 known
   - GCC: 👂 heard
   - LLVM: 👂 heard
@@ -202,8 +202,8 @@
   - Monkey patch: 🎓 known
   - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
-  - Bytecode: u
-  - V8: u
+  - Bytecode: 🖐️ used
+  - V8: 🖐️ used
   - VJM: 👂 heard
   - CLR: 👂 heard
   - Mono: 👂 heard

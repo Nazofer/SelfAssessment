@@ -6,33 +6,33 @@
   - Non-blocking: 🙋 explained
   - Async I/O: 🙋 explained
   - Thread pool: 🎓 known
-  - Pattern Reactor: u
+  - Pattern Reactor: 🖐️ used
   - CAS operations: 👂 heard
-  - epoll h
+  - epoll: 👂 heard
   - kqueue
-  - Completion ports h
-  - Event ports h
-  - libuv: u
-  - Race conditions: u
-  - Dead locks k
-  - Live locks k
+  - Completion ports: 👂 heard
+  - Event ports: 👂 heard
+  - libuv: 🖐️ used
+  - Race conditions: 🖐️ used
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
   - Concurrent programming: 👂 heard
   - Parallel programming: 👂 heard
   - Actor Model: 🎓 known
   - Thread: 🖐️ used
-  - Process: u
+  - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🙋 explained
-  - Callback-last-error-first: e
+  - Callback-last-error-first: 🙋 explained
   - Thenable: 🙋 explained
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
-  - Future h
-  - Deferred h
+  - Future: 👂 heard
+  - Deferred: 👂 heard
   - Sync generator: 🖐️ used
   - Async Generator: 🖐️ used
   - Async Iterator: 🖐️ used
-  - Event: e
+  - Event: 🙋 explained
   - Coroutine: 👂 heard
   - Goroutine: 👂 heard
   - Signal: 👂 heard
@@ -48,10 +48,10 @@
   - Async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
-  - Observable/Observer: u
-  - Readable: k
-  - Writable: k
-  - Transform h
+  - Observable/Observer: 🖐️ used
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 👂 heard
   - Async Pool: 🎓 known
   - Async Queue: 🎓 known
   - Async Collector: 🎓 known
@@ -62,26 +62,26 @@
   - Timers: 🙋 explained
   - `setImmediate`: 🙋 explained
   - `nextTick`: 🙋 explained
-  - AbortController: u
+  - AbortController: 🖐️ used
   - AbortSignal: 🎓 known
   - Promise unhandled rejection: 🖐️ used
-  - Promise double resolve: k
+  - Promise double resolve: 🎓 known
   - Atomics: 🖐️ used
   - High resolution clock: 🎓 known
   - Callback hell: 🙋 explained
   - Promise hell: 🙋 explained
   - ref() and unref(): 👂 heard
-  - Error handling in async code: e
+  - Error handling in async code: 🙋 explained
   - Better stack traces with return await: 🖐️ used
-  - JSON streaming serialization k
+  - JSON streaming serialization: 🎓 known
   - AsyncLocalStorage: 🎓 known
   - AsyncResource
 - Techniques
   - Async.js library: 🎓 known
-  - RxJS library: u
+  - RxJS library: 🖐️ used
   - Promise.all: 🙋 explained
-  - Promise.allSettled: e
-  - Promise.race: e
+  - Promise.allSettled: 🙋 explained
+  - Promise.race: 🙋 explained
   - Promise.any: 🙋 explained
   - Web Locks API
   - IPC

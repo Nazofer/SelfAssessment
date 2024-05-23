@@ -23,13 +23,13 @@
   - Data query language (DQL): 🖐️ used
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
-  - Normal forms: u
+  - Normal forms: 🖐️ used
   - Indexing: 🖐️ used
-  - Primary keys: e
-  - Foreign keys: e
-  - Transactions: e
-  - Views: e
-  - Subqueries: e
+  - Primary keys: 🙋 explained
+  - Foreign keys: 🙋 explained
+  - Transactions: 🙋 explained
+  - Views: 🙋 explained
+  - Subqueries: 🙋 explained
   - Stored procedures: 🎓 known
   - SQL functions: 🎓 known
   - Materialized views: 👂 heard
