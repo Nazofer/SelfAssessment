@@ -28,7 +28,7 @@
   - Async IIFE: 🙋 explained
   - `global`: 🖐️ used
   - `globalThis`: 🖐️ used
-  - `window`: 🖐️ used
+  - `window`: e
   - Getters and setters: 🙋 explained
   - `__proto__`: 🖐️ used
   - `prototype`: 🖐️ used
@@ -48,8 +48,8 @@
   - `super`: 🙋 explained
   - `eval`: 🖐️ used
   - `static`: 🙋 explained
-  - `Number.parseInt`: 🖐️ used
-  - `Number.parseFloat`: 🖐️ used
+  - `Number.parseInt`: e
+  - `Number.parseFloat`: e
   - Property descriptors: 🖐️ used
   - Sealing properties: 🖐️ used
   - Freezing properties: 🖐️ used
@@ -65,7 +65,7 @@
   - `for`: 🙋 explained
   - `for..in`: 🙋 explained
   - `for..of`: 🙋 explained
-  - `for await`: 🖐️ used
+  - `for await`: e
   - `throw`: 🙋 explained
   - `break`: 🙋 explained
   - `continue`: 🙋 explained
@@ -84,17 +84,17 @@
   - Function declaration: 🙋 explained
   - Function expression: 🙋 explained
   - Default parameters: 🙋 explained
-  - Functional object: 👂 heard
-  - `Function.prototype.call`: 🎓 known
+  - Functional object: k
+  - `Function.prototype.call`: u
   - `Function.prototype.bind`: 🖐️ used
-  - `Function.prototype.apply`: 🎓 known
+  - `Function.prototype.apply`: u
   - `return`: 🙋 explained
 - Data structures
   - `Array`: 🙋 explained
   - `Map`: 🙋 explained
   - `Set`: 🙋 explained
-  - `WeakMap`: 🖐️ used
-  - `WeakSet`: 🖐️ used
+  - `WeakMap`: e
+  - `WeakSet`: e
   - Typed arrays: 🎓 known
   - Mixins: 🎓 known
   - `Object.assign`: 🖐️ used
@@ -114,7 +114,7 @@
   - `console`: 🖐️ used
   - Timers: 🙋 explained
 - Infrastructure
-  - V8: 🎓 known
+  - V8: u
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used
