@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
+  - Model e
+  - Modeling e
+  - Subject domain e
   - Algorithm: 🙋 explained
   - Syntax: 🙋 explained
   - Semantics: 🙋 explained
@@ -39,16 +39,16 @@
   - Scalar: 🙋 explained
   - Literal: 🙋 explained
   - Expression: 🙋 explained
-  - Heap: 🎓 known
+  - Heap: e
   - Function: 🙋 explained
-  - Procedure: 🎓 known
+  - Procedure: e
   - Method: 🙋 explained
   - Class: 🙋 explained
-  - Prototype: 🖐️ used
-  - Event: 🖐️ used
-  - Type
-  - Flag
-  - Lexical scope: 🖐️ used
+  - Prototype: e
+  - Event: e
+  - Type h
+  - Flag h
+  - Lexical scope: e
   - Code block: 🙋 explained
   - Conditions: 🙋 explained
   - Loops: 🙋 explained
@@ -71,13 +71,13 @@
   - Type systems: 🙋 explained
   - Strong typing: 🙋 explained
   - Weak typing: 🙋 explained
-  - Duck typing: 👂 heard
+  - Duck typing: k
   - Static typing: 🙋 explained
   - Dynamic typing: 🙋 explained
   - Nominal typing: 🙋 explained
   - Structural typing
   - Explicit typing: 🙋 explained
-  - Type inference
+  - Type inference k
   - Covariance
   - Contravariance
 - Functions
@@ -92,7 +92,7 @@
   - Currying: 🖐️ used
   - Higher order: 🙋 explained
   - Recursion: 🙋 explained
-  - Tail call optimisation
+  - Tail call optimisation h
   - Callback: 🙋 explained
   - Listener: 🙋 explained
   - Composition: 🎓 known
